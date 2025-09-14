@@ -1,0 +1,26 @@
+name: Sarawut Tiyawong
+version: 1.0
+enadled: true
+  tage:
+    -devvops
+    -yaml
+    -config
+# String
+title: "DevOps Trainning"
+
+# Number
+restries: 3
+
+# Boolean
+debug: true
+
+# List
+servers:
+-server1
+-server2
+-server3
+
+# Dictionnary (Object)
+database:
+host: localhost
+port: 3306
